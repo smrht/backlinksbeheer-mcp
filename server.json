@@ -3,7 +3,7 @@
   "name": "io.github.smrht/backlinksbeheer",
   "title": "Backlinksbeheer",
   "description": "Read your stored backlinks, link checks and lost-link alerts per domain. Read-only.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://backlinksbeheer.nl/",
   "repository": {
     "url": "https://github.com/smrht/backlinksbeheer-mcp",
